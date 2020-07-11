@@ -12,7 +12,7 @@ namespace OnPS.Platforms
     class Discord
     {
         private static int DiscordPipe = -1;
-        private static string ClientID = "476530101937504256";
+        private static string ClientID = "731069942103015504";
         private static DiscordRpcClient client;
         private string lastTitleId;
         private static RichPresence presence = new RichPresence()
